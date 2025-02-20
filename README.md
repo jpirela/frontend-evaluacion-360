@@ -33,16 +33,16 @@ Antes de comenzar, asegúrate de tener instalado:
    VITE_BASE_URL_DEV=http://localhost:3030
    ```
 
-4. Inicia el servidor (producción):
+4. Inicia el servidor de la aplicación (producción):
 
    ```sh
    yarn start
    ```
 
-4. Inicia el servidor (depuración):
+4. Inicia el servidor de la aplicación (depuración):
 
    ```sh
    yarn dev --host
    ```   
 
-   El servidor estará disponible en `http://localhost:5173`.
+   El servidor de la aplicación estará disponible en `http://localhost:5173`.
